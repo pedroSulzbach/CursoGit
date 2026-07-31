@@ -1,1 +1,1 @@
-Teste para o clone
+Teste: compartilhamento de branches
