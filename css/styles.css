@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    font-size: 130%;
+    text-align: justify;
+    background-color: rgb(228, 213, 183);
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.img_g {
+    width: 150px;
+    float: right;
+    padding: 15px;
+    box-shadow: 0 0 0 0.5px rgba(0, 0, 0, 0.5); 
+}
+
+.img_gh {
+    width: 200px;
+    float: right;
+    box-shadow: 0 0 0 0.5px rgba(0, 0, 0, 0.5); 
+}
