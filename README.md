@@ -1,3 +1,3 @@
 # CursoGit
 
-Fazendo uma modificação
+Aprendendo a usar Git e GitHub.
